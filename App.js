@@ -1,7 +1,7 @@
 const express = require("express");
 const App = express();
 const jwt = require("jsonwebtoken");
-const Port = 3002;
+const Port = 8080;
 App.use(express.json());
 const cors = require("cors");
 const fs = require('fs');
@@ -12,12 +12,12 @@ App.listen(Port, () => {
 });
 
 const corsOptions = {
-  origin: "http://localhost:3000",
+  origin: "*",
   credentials: true,
   optionSuccessStatus: 200,
 };
 App.use(cors(corsOptions));
-App.get("/", (req, res) => {
+App.get("/",(req, res) => {
   res.send(value);
 });
 

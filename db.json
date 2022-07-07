@@ -8,21 +8,14 @@
     },
     {
         "name": "kaviyarasan",
-        "email": "abinaya@proechoes.com",
-        "mobileNo": "09544422424",
-        "password": "Pass@123",
-        "confirmPassword": "Pass@123"
-    },
-    {
-        "name": "kaviyarasan",
-        "email": "abc@gmail.com",
-        "mobileNo": "09544422424",
-        "password": "Pass@123",
-        "confirmPassword": "Pass@123"
-    },
-    {
-        "name": "kaviyarasan",
         "email": "kavi@gmail.com",
+        "mobileNo": "09544422424",
+        "password": "Pass@123",
+        "confirmPassword": "Pass@123"
+    },
+    {
+        "name": "kaviyarasan",
+        "email": "abinaya@proechoes.com",
         "mobileNo": "09544422424",
         "password": "Pass@123",
         "confirmPassword": "Pass@123"
