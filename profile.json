@@ -1,0 +1,54 @@
+[
+    {
+        "name": "kaviyarasan",
+        "surname": "k",
+        "mobileNo": "09544422424",
+        "address1": "north street",
+        "address2": "Park Street",
+        "postalCode": "71000",
+        "state": "tamilnadu",
+        "city": "trichys",
+        "email": "kavi@gmail.com",
+        "country": "India",
+        "img": "https://st3.depositphotos.com/15648834/17930/v/600/depositphotos_179308454-stock-illustration-unknown-person-silhouette-glasses-profile.jpg"
+    },
+    {
+        "name": "kaviyarasan",
+        "surname": "k",
+        "mobileNo": "09544422424",
+        "address1": "north street",
+        "address2": "Park Street",
+        "postalCode": "71000",
+        "state": "tamilnadu",
+        "city": "trich",
+        "email": "kaviyarasan@dorustree.insss",
+        "country": "India",
+        "img": "https://st3.depositphotos.com/15648834/17930/v/600/depositphotos_179308454-stock-illustration-unknown-person-silhouette-glasses-profile.jpg"
+    },
+    {
+        "name": "kaviyarasan",
+        "surname": "k",
+        "mobileNo": "09544422424",
+        "address1": "north street",
+        "address2": "Park Street",
+        "postalCode": "71000",
+        "state": "tamilnadu",
+        "city": "chennai",
+        "email": "kaviyarasan@dorustree.in",
+        "country": "India",
+        "img": "https://st3.depositphotos.com/15648834/17930/v/600/depositphotos_179308454-stock-illustration-unknown-person-silhouette-glasses-profile.jpg"
+    },
+    {
+        "name": "user",
+        "surname": "k",
+        "mobileNo": "9544422424",
+        "address1": "north street",
+        "address2": "Park Street",
+        "postalCode": "71000",
+        "state": "tamilnadu",
+        "city": "chennai",
+        "email": "abinaya@proechoes.com",
+        "country": "India",
+        "img": "blob:http://localhost:3000/52e7093a-e2e1-4705-8446-9b81489a9851"
+    }
+]
